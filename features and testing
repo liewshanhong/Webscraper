@@ -1,0 +1,18 @@
+    Working Features:
+        -Scraping indeed.com job postings(getLinks,getDescriptions)
+        -extracting skills using coreNLP(NLP)
+        -analyizing data using k-mediod clusters(analysis-clustering)
+        -analyze data using bag of words(analysis-bar)
+        -calculates bhattacharyya coefficient
+
+    Testing:
+        Process: in order to test our code we will manually extract the code from the job descriptions. We will then compare this to the skills our code extracted from the descriptions.
+         we will also manually examine the data to ensure the clustering is working properly. 
+        Test Case:
+            data collection:
+            skill extraction:
+                Description: 
+                Our Skills:
+                Algorithms Skills: 
+            clustering:
+
