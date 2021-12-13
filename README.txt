@@ -1,3 +1,6 @@
+In order to run code in this repository you must download corenlp from:
+https://stanfordnlp.github.io/CoreNLP/
+and extract its contents the the main folder.
 Order must run in:
 1.src/getLinks.java
 2.src/getDescriptions.java
