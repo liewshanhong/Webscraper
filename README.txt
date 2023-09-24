@@ -1,4 +1,4 @@
-Please Ignore the COSC329_Project submodule.
+
 In order to run code in this repository you must download corenlp from:
 https://stanfordnlp.github.io/CoreNLP/
 and extract its contents to the main folder.
